@@ -28,7 +28,7 @@ jobs:
           source venv/bin/activate
       
       - name: Install dependencies
-        run: pip install streamlit scikit-learn nltk numpy==1.26.0 tensorflow-intel==2.16.1
+        run: pip install streamlit scikit-learn nltk numpy tensorflow-intel
 
         
       # Optional: Add step to run tests here (PyTest, Django test suites, etc.)
