@@ -1,0 +1,5 @@
+streamlit
+scikit-learn
+nltk
+numpy==1.26.0  # Compatible version for tensorflow-intel
+tensorflow-intel==2.16.1
